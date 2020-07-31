@@ -3,22 +3,20 @@ Today I Learned - CodeSoom
 
 **CodeSoom - React** 프로그램을 들으며, 총 12주간 (2020/06/01 ~ 2020/08/23) 배우게 된 내용을 기록합니다. 
 
-TIL을 작성하는 목적은 **매일 꾸준히** 프로그램에 참여하기 위함입니다. 
+### 나를 성장하게 한 TIL 모음
 
-TIL을 작성하는 규칙은 다음과 같습니다.
+* [좋은 커밋메세지란 무엇인가 - 200723 TIL](https://github.com/naraekn/TIL-codesoom/blob/master/week8/200723.md)
 
-작성규칙
----
-* **가장 기억에 남는 것** 1~2가지를 정리합니다.
-* 각 파일은 week 별 폴더에 저장합니다.
-* 파일명은 **작성한 날짜.md** 형식을 따릅니다.
+* [소프트웨어에서 선긋기 - 200713 TIL](https://github.com/naraekn/TIL-codesoom/blob/master/week7/200713.md)
 
+* [나는 왜 TDD를 배우고 싶었는가? - 200708 TIL](https://github.com/naraekn/TIL-codesoom/blob/master/week6/200708.md)
 
+* [이번주 과제는 왜 즐거운가 - 200701 TIL](https://github.com/naraekn/TIL-codesoom/blob/master/week5/200701.md)
 
+* [이번주 과제는 왜 힘들까 - 200701 TIL](https://github.com/naraekn/TIL-codesoom/blob/master/week4/200625.md)
 
+* [좋은 테스트코드란 무엇인가 - 200621 TIL](https://github.com/naraekn/TIL-codesoom/blob/master/week3/200621.md)
 
+* [좋은 테스트코드란 무엇인가 - 200621 TIL](https://github.com/naraekn/TIL-codesoom/blob/master/week3/200621.md)
 
-
-
-
-
+* [왜 let을 제거해야 하는가 - 200605 TIL](https://github.com/naraekn/TIL-codesoom/blob/master/week1/200605.md)
