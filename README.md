@@ -17,8 +17,6 @@ Today I Learned - CodeSoom
 
 * [좋은 테스트코드란 무엇인가 - 200621 TIL](https://github.com/naraekn/TIL-codesoom/blob/master/week3/200621.md)
 
-* [좋은 테스트코드란 무엇인가 - 200621 TIL](https://github.com/naraekn/TIL-codesoom/blob/master/week3/200621.md)
-
 * [왜 let을 제거해야 하는가 - 200605 TIL](https://github.com/naraekn/TIL-codesoom/blob/master/week1/200605.md)
 
 ### **React 실험 보고서 모음**
