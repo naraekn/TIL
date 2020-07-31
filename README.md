@@ -25,4 +25,4 @@ Today I Learned - CodeSoom
 
 * [My React Lab - JSX편](https://github.com/naraekn/TIL-codesoom/blob/master/pinned/my-react-lab-jsx.md)
 
-* [My React Lab - JSX편](https://github.com/naraekn/TIL-codesoom/blob/master/pinned/my-react-lab-props.md)
+* [My React Lab - props편](https://github.com/naraekn/TIL-codesoom/blob/master/pinned/my-react-lab-props.md)
