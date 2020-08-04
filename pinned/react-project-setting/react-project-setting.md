@@ -391,7 +391,7 @@ module.exports = {
 
 ### **Redux mock store 설치하기**
 
-A mock store for testing Redux async action creators and middleware. The mock store will create an array of dispatched actions which serve as an action log for tests.
+> A mock store for testing Redux async action creators and middleware. The mock store will create an array of dispatched actions which serve as an action log for tests.
 
 ```
 npm i -D redux-mock-store
@@ -418,3 +418,44 @@ module.exports = {
 };
 ```
 
+### **HtmlWebpackPlugin 설치하기**
+> This is a webpack plugin that simplifies creation of HTML files to serve your webpack bundles. This is especially useful for webpack bundles that include a hash in the filename which changes every compilation. 
+
+```
+npm i -D html-webpack-plugin
+```
+
+```javascript
+// webpack.config.js
+module.exports = {
+  // ... 
+  devServer: {
+    historyApiFallback: {
+      index: 'index.html',
+    },
+  },
+};
+```
+
+### **file loader 설치하기**
+
+```
+npm i -D file-loader
+```
+
+```javascript
+//webpack.config.js
+module.exports = {
+  entry: path.resolve(__dirname, 'src/index.jsx'),
+  module: {
+    rules: [
+      // ...
+      {
+        test: /\.(png|jpg|gif)$/i,
+        use: 'file-loader',
+      },
+    ],
+  },
+
+};
+```
